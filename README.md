@@ -4,7 +4,7 @@ This project focuses on the implementation and study of numerical methods for pr
 
 It explores Monte Carlo simulation, stochastic differential equation discretization, and variance reduction techniques, with applications to European and exotic options.
 
-#Mathematical Framework
+# Mathematical Framework
 
 The project is based on the Geometric Brownian Motion model:
 
@@ -24,13 +24,13 @@ where:
 
 #Implemented Methods
 
-#1. Black-Scholes Model
+# 1. Black-Scholes Model
 
 Analytical pricing of European call and put options.
 
 Computation of option prices under the Black-Scholes framework.
 
-#2. Monte Carlo Simulation
+# 2. Monte Carlo Simulation
    Simulation of Brownian motion.
 
 Simulation of the underlying asset price.
