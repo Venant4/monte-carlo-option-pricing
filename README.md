@@ -22,7 +22,7 @@ where:
 
 (W_t): standard Brownian motion
 
-#Implemented Methods
+# Implemented Methods
 
 # 1. Black-Scholes Model
 
@@ -37,18 +37,18 @@ Simulation of the underlying asset price.
 
 Numerical pricing of European options.
 
-#3. Euler-Maruyama Scheme
+# 3. Euler-Maruyama Scheme
 
 Numerical discretization of stochastic differential equations.
 
 Simulation of asset price trajectories.
 
-#4. Variance Reduction
+# 4. Variance Reduction
    Implementation of antithetic variates.
 
 Comparison with standard Monte Carlo simulation.
 
-5. Exotic Options Pricing
+# 5. Exotic Options Pricing
 
 Asian options.
 
@@ -56,7 +56,7 @@ Digital options.
 
 Barrier options: Down-and-Out, Up-and-In and Up-and-Out.
 
-#Objectives
+# Objectives
 
 Understand and implement Monte Carlo methods for option pricing.
 
@@ -68,7 +68,7 @@ Explore the pricing of exotic financial derivatives.
 
 Compare numerical methods with analytical pricing benchmarks.
 
-#Future Improvements
+# Future Improvements
 
 Refactoring and optimization of the Python implementation.
 
@@ -79,3 +79,7 @@ Convergence analysis with respect to the number of simulations.
 Performance comparison between standard Monte Carlo and antithetic variates.
 
 Visualization of simulated trajectories and numerical results.
+
+# Disclaimer
+
+This project is developed for educational and research purposes. It does not constitute investment advice.
